@@ -1,2 +1,2 @@
-# redfstore2
+# redstore2
 ecommerce  store
